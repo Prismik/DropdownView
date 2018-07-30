@@ -1,0 +1,16 @@
+PODS:
+  - DropdownView (0.1.0)
+
+DEPENDENCIES:
+  - DropdownView (from `../`)
+
+EXTERNAL SOURCES:
+  DropdownView:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DropdownView: 8ffa75a1eb4aaa5d6c044dfc5d876c41db3cebaf
+
+PODFILE CHECKSUM: 144e93c5f61cb83950d0171c773b215e3ee87db9
+
+COCOAPODS: 1.5.3

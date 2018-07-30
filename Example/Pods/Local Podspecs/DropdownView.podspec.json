@@ -1,0 +1,22 @@
+{
+  "name": "DropdownView",
+  "version": "0.1.0",
+  "summary": "A short description of DropdownView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Francis/DropdownView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Francis": "francis.beauchampsc@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Francis/DropdownView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "DropdownView/Classes/**/*"
+}

@@ -22,7 +22,7 @@ pod 'DropdownView'
 
 ## Author
 
-Francis, francis.beauchampsc@gmail.com
+Francis, francis.beauchamp@finecraftedapps.com
 
 ## License
 
